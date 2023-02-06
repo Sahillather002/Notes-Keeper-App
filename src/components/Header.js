@@ -8,8 +8,8 @@ export default function Header() {
     <div className='Header'>
         <div>
             <DescriptionOutlinedIcon 
-            sx={{
-                color:"blue" ,
+           sx={{
+                color:"black" ,
                 fontSize:"100px",
                 padding:"0 50px",
                 "&:hover": {color: green[500]},
