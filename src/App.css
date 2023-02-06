@@ -1,0 +1,16 @@
+.Header{
+  height: 100px;
+  border: 100px;
+  margin: auto;
+  padding: 1%;
+  font-size: larger;
+  text-align: center;
+  text-decoration: double;
+  color: rgb(204, 225, 225);
+  text-shadow: 20px;
+  background-color: rgb(166, 38, 140);
+}
+
+.Body{
+  text-align: center;
+}
