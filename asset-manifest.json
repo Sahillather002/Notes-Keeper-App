@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Notes-Keeper-App/static/css/main.8d5613d2.css",
+    "main.js": "/Notes-Keeper-App/static/js/main.7013ea4e.js",
+    "index.html": "/Notes-Keeper-App/index.html",
+    "main.8d5613d2.css.map": "/Notes-Keeper-App/static/css/main.8d5613d2.css.map",
+    "main.7013ea4e.js.map": "/Notes-Keeper-App/static/js/main.7013ea4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d5613d2.css",
+    "static/js/main.7013ea4e.js"
+  ]
+}
