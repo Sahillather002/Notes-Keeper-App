@@ -13,7 +13,18 @@
     border: none;
     padding: 4px;
     outline: none;
-    font-size: 1.2em;
+    font-size: 300%;
     font-family: inherit;
     resize: none;
+    font-style: italic;
+}
+
+.title{
+    width: 100%;
+    border: none;
+    padding: 1%;
+    height: 50%;
+    font-size: x-large;
+    font-style: italic;
+    
 }
