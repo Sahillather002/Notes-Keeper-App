@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import AddCircleIcon from '@mui/icons-material/AddCircle';
 import {Zoom} from "@mui/material";
 import { Fab } from "@mui/material";
+import './CreateArea.css'
 
 function CreateArea(props) {
   const [note, setNote] = useState({
