@@ -4,6 +4,7 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import CreateArea from "./components/CreateArea";
 import Note from "./components/Note";
+import './App.css'
 function App(){
   const[notes,setNotes] = useState([]);
   function addNote(newNote){
@@ -20,7 +21,7 @@ function App(){
     })
   }
   return (
-    <div>
+    <div class="fullbody">
       <Header />
       <CreateArea onAdd={addNote} />
       {notes.map((noteItem,index) => {
