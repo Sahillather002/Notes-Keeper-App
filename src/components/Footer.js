@@ -6,7 +6,7 @@ function Footer() {
   return (
     
       <div className="footer">
-      Copyright ⓒ {year}
+      Thanks for using app ⓒ {year}
       </div>
     
   );
