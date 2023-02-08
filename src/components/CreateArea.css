@@ -1,8 +1,8 @@
 .create-note{
     position: relative;
     width: 480px;
-    margin: 30px auto 20px auto;
-    background: #fff;
+    margin: 30px auto 30px auto;
+    background: #ce6b6b;
     padding: 15px;
     border-radius: 7px;
     box-shadow: 0 1px 5px rgb(138, 137, 137);
@@ -11,18 +11,19 @@
 .textarea{
     width: 100%;
     border: none;
-    padding: 4px;
+    padding: 3px;
     outline: none;
     font-size: 300%;
     font-family: inherit;
     resize: none;
     font-style: italic;
+    background: #abc89a;
 }
 
 .title{
     width: 100%;
     border: none;
-    padding: 1%;
+    padding: 3px;
     height: 50%;
     font-size: x-large;
     font-style: italic;
