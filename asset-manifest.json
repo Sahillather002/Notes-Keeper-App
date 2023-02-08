@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Notes-Keeper-App/static/css/main.8d5613d2.css",
-    "main.js": "/Notes-Keeper-App/static/js/main.7013ea4e.js",
+    "main.css": "/Notes-Keeper-App/static/css/main.7135d85f.css",
+    "main.js": "/Notes-Keeper-App/static/js/main.0e1bf1d0.js",
     "index.html": "/Notes-Keeper-App/index.html",
-    "main.8d5613d2.css.map": "/Notes-Keeper-App/static/css/main.8d5613d2.css.map",
-    "main.7013ea4e.js.map": "/Notes-Keeper-App/static/js/main.7013ea4e.js.map"
+    "main.7135d85f.css.map": "/Notes-Keeper-App/static/css/main.7135d85f.css.map",
+    "main.0e1bf1d0.js.map": "/Notes-Keeper-App/static/js/main.0e1bf1d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d5613d2.css",
-    "static/js/main.7013ea4e.js"
+    "static/css/main.7135d85f.css",
+    "static/js/main.0e1bf1d0.js"
   ]
 }
