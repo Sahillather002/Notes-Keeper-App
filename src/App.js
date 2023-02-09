@@ -5,6 +5,7 @@ import Footer from "./components/Footer";
 import CreateArea from "./components/CreateArea";
 import Note from "./components/Note";
 import './App.css'
+
 function App(){
   const[notes,setNotes] = useState([]);
   function addNote(newNote){
